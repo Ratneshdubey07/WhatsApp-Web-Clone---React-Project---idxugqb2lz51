@@ -133,9 +133,6 @@ export default function Chat({ userName }) {
                     <button style={{ border: "none" }}>
                         <span className="material-symbols-outlined">mic</span>
                     </button>
-                     <button style={{ border: "none" }}>
-                        <span className="material-symbols-outlined">media</span>
-                    </button>
                 </form>
             </div>
         </div>
